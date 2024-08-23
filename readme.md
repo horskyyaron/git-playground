@@ -1,3 +1,3 @@
-# hello from readme
+# hello from README
 
 hi :)
